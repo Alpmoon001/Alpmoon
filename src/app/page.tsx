@@ -168,7 +168,7 @@ export default function HomePage() {
 
                      <div className="flex items-center">
                        <span className="text-blue-600 dark:text-blue-400 font-medium w-4 flex-shrink-0 mr-4">•</span>
-                       <span className="text-slate-800 dark:text-slate-200 font-medium text-justify">亲家集团 总裁 联合创始人</span>
+                       <span className="text-slate-800 dark:text-slate-200 font-medium text-justify">亲家集团 联合创始人</span>
                      </div>
 
                      <div className="flex items-center">

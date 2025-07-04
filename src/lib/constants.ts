@@ -70,9 +70,9 @@ export const INVESTMENT_AREAS = [
 export const WORK_EXPERIENCE = [
   {
     company: "亲家集团",
-    position: "总裁 联合创始人",
+    position: "联合创始人",
     period: "2021.02 - 至今",
-    description: "作为联合创始人兼公司总裁，全面负责公司战略规划、业务管理、组织和团队建设、市场品牌、资本市场等领导和管理工作。",
+    description: "作为联合创始人，全面负责公司战略规划、业务管理、组织和团队建设、市场品牌、资本市场等领导和管理工作。",
     current: true
   },
   {
@@ -150,7 +150,7 @@ export const INVESTMENT_CASES = [
   },
   {
     name: "量化派",
-    description: "金融科技和数据驱动的消费金融公司",
+    description: "人工驱动的金融科技公司",
     stage: "成长期",
     sector: "金融科技",
     status: "行业领先"

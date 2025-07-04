@@ -74,7 +74,7 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="https://github.com/loumin"
+                  href="https://github.com/Alpmoon001"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-base text-gray-500 dark:text-gray-400 hover:text-primary dark:hover:text-primary"

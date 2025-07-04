@@ -32,7 +32,7 @@ export default function ContactPage() {
                 <div>
                   <h3 className="font-semibold text-gray-900 dark:text-white mb-1">现任职位</h3>
                   <p className="text-gray-600 dark:text-gray-400">
-                    亲家集团 总裁 联合创始人<br/>
+                    亲家集团 联合创始人<br/>
                     能猫资本 董事总经理
                   </p>
                 </div>
